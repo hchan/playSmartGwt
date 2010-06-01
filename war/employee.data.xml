@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<records>
+<record>
+<empno>1</empno>
+<fname>Henry</fname>
+<lname>Chan</lname>
+<title>Developer</title>
+<salary>0.00</salary>
+</record>
+
+</records>

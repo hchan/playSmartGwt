@@ -1,0 +1,10 @@
+<module rename-to='employeeGrid'>
+  <!-- Inherit the core Web Toolkit stuff.                        -->
+  <inherits name='com.google.gwt.user.User'/>
+
+  <inherits name="com.smartgwt.SmartGwt"/>
+
+  <entry-point class='sandbox.client.EmployeeGridModule'/>
+
+</module>
+
